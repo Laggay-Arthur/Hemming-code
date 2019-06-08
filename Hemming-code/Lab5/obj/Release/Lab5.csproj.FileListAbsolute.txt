@@ -1,0 +1,15 @@
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\bin\Release\Lab5.exe.config
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\bin\Release\Lab5.exe
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\bin\Release\Lab5.pdb
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\MainWindow.g.cs
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\App.g.cs
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5_MarkupCompile.cache
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5_MarkupCompile.lref
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\MainWindow.baml
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.g.resources
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.Properties.Resources.resources
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.csproj.GenerateResource.cache
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.exe
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.pdb
+C:\Users\Medoo\Documents\GitHub\Lab5\Lab5\obj\Release\Lab5.csprojAssemblyReference.cache
